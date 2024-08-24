@@ -1,0 +1,85 @@
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\sentiment analyzer.exe
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\sentiment analyzer.deps.json
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\sentiment analyzer.runtimeconfig.json
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\sentiment analyzer.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\sentiment analyzer.pdb
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Accord.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Accord.MachineLearning.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Accord.Statistics.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\SharpNL.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.ML.Core.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.ML.Data.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.ML.KMeansClustering.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.ML.PCA.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.ML.StandardTrainers.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.ML.Transforms.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.ML.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.ML.CpuMath.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Microsoft.ML.DataView.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\MoreLinq.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Pipelines.Sockets.Unofficial.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\PluralizeService.Core.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Polly.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\protobuf-net.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Snappy.Standard.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\StackExchange.Redis.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Wikiled.Arff.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Wikiled.Common.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Wikiled.Common.Utilities.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Alglib2.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Wikiled.MachineLearning.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Wikiled.FlatBuffers.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Wikiled.Redis.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Wikiled.Sentiment.Analysis.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Wikiled.Sentiment.Text.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Wikiled.Text.Analysis.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\Wikiled.Text.Inquirer.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\runtimes\win-x64\native\LdaNative.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\runtimes\win-x86\native\LdaNative.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\System.Reactive.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\bin\Debug\net6.0-windows\System.Reactive.xml
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\sentiment analyzer.csproj.AssemblyReference.cache
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\sentiment_analyzer.Form1.resources
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\sentiment_analyzer.Properties.Resources.resources
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\sentiment analyzer.csproj.GenerateResource.cache
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\sentiment analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\sentiment analyzer.AssemblyInfoInputs.cache
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\sentiment analyzer.AssemblyInfo.cs
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\sentiment analyzer.csproj.CoreCompileInputs.cache
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\sentiment analyzer.csproj.CopyComplete
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\sentiment analyzer.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\refint\sentiment analyzer.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\sentiment analyzer.pdb
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\sentiment analyzer.genruntimeconfig.cache
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\ref\sentiment analyzer.dll
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\sentiment_analyzer.FormAbout.resources
+C:\Users\amrak\source\repos\sentiment analyzer\sentiment analyzer\obj\Debug\net6.0-windows\sentiment_analyzer.FormSettings.resources
